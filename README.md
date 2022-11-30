@@ -1,8 +1,8 @@
-# :wave: Sachin Tyagi
+# :wave: Hi! I am Sachin Tyagi
 
 ### New Delhi, India
 
-##[LinkedIn](https://www.linkedin.com/in/sachintyagi0009)   |   [GitHub](https://github.com/sachintyagi0009)   |   [Jovian](https://jovian.ai/sachintyagi0009)   |   [Medium](https://medium.com/@sachintyagi0009)
+## [LinkedIn](https://www.linkedin.com/in/sachintyagi0009)   |   [GitHub](https://github.com/sachintyagi0009)   |   [Jovian](https://jovian.ai/sachintyagi0009)   |   [Medium](https://medium.com/@sachintyagi0009)
 
 ## EDUCATION
 
