@@ -1,12 +1,12 @@
 <h1>
 <p align="center" style="color:#6E2C00";>
   :wave: Hi! I am Sachin Tyagi, :derelict_house: New Delhi, india.
-</p align="center">
+</p>
 </h1>
 <h2>
 <p align="center" style="color:#784212";>
  A passionate data science practitioner.
-</p align="center">
+</p>
   </h2>
 
 ## [LinkedIn](https://www.linkedin.com/in/sachintyagi0009)   |   [GitHub](https://github.com/sachintyagi0009)   |   [Jovian](https://jovian.ai/sachintyagi0009)   |   [Medium](https://medium.com/@sachintyagi0009)
