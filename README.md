@@ -1,10 +1,10 @@
-<h1 style="color:#6E2C00";>
-<p align="center">
+<h1>
+<p align="center" style="color:#6E2C00";>
   :wave: Hi! I am Sachin Tyagi, :derelict_house: New Delhi, india. </b>
 </p align="center">
 </h1>
-<h2 style="color:#784212";>
-<p align="center">
+<h2>
+<p align="center" style="color:#784212";>
  A passionate data science practitioner.
 </p align="center">
   </h2>
