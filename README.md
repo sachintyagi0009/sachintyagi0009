@@ -1,5 +1,5 @@
 <p align="center">
- <b> :wave: Hi! I am Sachin Tyagi </b>
+##  :wave: Hi! I am Sachin Tyagi </b>
 </p align="center">
 ### New Delhi, India
 
