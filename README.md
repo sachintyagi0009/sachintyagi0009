@@ -1,16 +1,19 @@
 <h1>
-<p align="center" style="color:#6E2C00";>
+<p align="center">
   :wave: Hi! I am Sachin Tyagi, :derelict_house: New Delhi, india.
 </p>
 </h1>
 <h2>
-<p align="center" style="color:#784212";>
- A passionate data science practitioner.
+<p align="center">
+ A passionate Data Science practitioner.
 </p>
-  </h2>
-
-## [LinkedIn](https://www.linkedin.com/in/sachintyagi0009)   |   [GitHub](https://github.com/sachintyagi0009)   |   [Jovian](https://jovian.ai/sachintyagi0009)   |   [Medium](https://medium.com/@sachintyagi0009)
-
+</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/sachintyagi0009/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(1).png" alt="linkedin" height="40" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@sachintyagi0009"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download.png" alt="Medium" height="40" width="40" style="max-width: 100%;">&nbsp;
+<a href="https://jovian.ai/sachintyagi0009"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/images.png" alt="Jovian" height="50" width="70" style="max-width: 100%;">
+<a href="https://github.com/sachintyagi0009"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(2).png" alt="linkedin" height="60" width="60" style="max-width: 100%;">
+  </p>
 ## EDUCATION
 
 **Data Science Bootcamp, [Jovian](https://github.com/JovianML)**                                                                                        
