@@ -1,6 +1,6 @@
 <h1>
 <p align="center" style="color:#6E2C00";>
-  :wave: Hi! I am Sachin Tyagi, :derelict_house: New Delhi, india. </b>
+  :wave: Hi! I am Sachin Tyagi, :derelict_house: New Delhi, india.
 </p align="center">
 </h1>
 <h2>
