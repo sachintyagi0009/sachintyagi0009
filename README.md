@@ -1,11 +1,11 @@
 <h1>
 <p align="center">
-  :wave: Hi! I am Sachin Tyagi </b>
+  :wave: Hi! I am Sachin Tyagi, :derelict_house: New Delhi, india. </b>
 </p align="center">
 </h1>
 <h2>
 <p align="center">
- New Delhi, India
+ A passionate data science practitioner.
 </p align="center">
   </h2>
 
