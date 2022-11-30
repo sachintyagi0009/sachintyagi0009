@@ -3,9 +3,11 @@
   :wave: Hi! I am Sachin Tyagi </b>
 </p align="center">
 </h1>
+<h2>
 <p align="center">
  New Delhi, India
 </p align="center">
+  </h2>
 
 ## [LinkedIn](https://www.linkedin.com/in/sachintyagi0009)   |   [GitHub](https://github.com/sachintyagi0009)   |   [Jovian](https://jovian.ai/sachintyagi0009)   |   [Medium](https://medium.com/@sachintyagi0009)
 
