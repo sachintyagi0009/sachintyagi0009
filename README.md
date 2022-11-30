@@ -14,7 +14,7 @@
 <a href="https://jovian.ai/sachintyagi0009"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/images.png" alt="Jovian" height="50" width="70" style="max-width: 100%;">
 <a href="https://github.com/sachintyagi0009"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(2).png" alt="linkedin" height="60" width="60" style="max-width: 100%;">
   </p>
-## EDUCATION
+  <h2> :school: EDUCATION </h2>
 
 **Data Science Bootcamp, [Jovian](https://github.com/JovianML)**                                                                                        
 
