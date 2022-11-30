@@ -1,9 +1,9 @@
-<h1>
+<h1 style="color:#17202A;">
 <p align="center">
   :wave: Hi! I am Sachin Tyagi, :derelict_house: New Delhi, india. </b>
 </p align="center">
 </h1>
-<h2>
+<h2 style="color:#2C3E50;">
 <p align="center">
  A passionate data science practitioner.
 </p align="center">
