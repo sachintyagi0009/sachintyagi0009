@@ -1,4 +1,4 @@
-<h1 style="color:#17202A;">
+<h1 style="color:#6E2C00;">
 <p align="center">
   :wave: Hi! I am Sachin Tyagi, :derelict_house: New Delhi, india. </b>
 </p align="center">
