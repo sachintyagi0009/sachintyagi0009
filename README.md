@@ -1,8 +1,8 @@
 <p align="center">
-## :wave: Hi! I am Sachin Tyagi
-
-### New Delhi, India
+ <b> :wave: Hi! I am Sachin Tyagi </b>
 </p align="center">
+### New Delhi, India
+
 
 ## [LinkedIn](https://www.linkedin.com/in/sachintyagi0009)   |   [GitHub](https://github.com/sachintyagi0009)   |   [Jovian](https://jovian.ai/sachintyagi0009)   |   [Medium](https://medium.com/@sachintyagi0009)
 
