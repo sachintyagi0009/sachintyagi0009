@@ -61,12 +61,12 @@ Highlights: 500+ hours of coursework, 14 coding assignments, 4 real-world projec
 * :raising_hand: Ask me about ** MySql, Python, Statistics, Web Scrapping, EDA, Tableau, Excel**
 
 ### Languages & Tools
-<a href="https://seaborn.pydata.org/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(1).png" alt="linkedin" height="40" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.mysql.com/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download.png" alt="Medium" height="40" width="40" style="max-width: 100%;">&nbsp;
-<a href="https://pandas.pydata.org/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/images.png" alt="Jovian" height="50" width="70" style="max-width: 100%;">
-<a href="https://www.python.org/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(2).png" alt="linkedin" height="60" width="60" style="max-width: 100%;">
-<a href="https://scikit-learn.org/stable/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(3).png" alt="Twitter" height="70" width="70" style="max-width: 100%;">
-<a href="https://matplotlib.org/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(3).png" alt="Twitter" height="70" width="70" style="max-width: 100%;">
-<a href="https://python-visualization.github.io/folium/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(3).png" alt="Twitter" height="70" width="70" style="max-width: 100%;">
-<a href="https://www.tableau.com/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(3).png" alt="Twitter" height="70" width="70" style="max-width: 100%;">
-<a href="https://git-scm.com/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(3).png" alt="Twitter" height="70" width="70" style="max-width: 100%;">
+<a href="https://seaborn.pydata.org/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(7).png" alt="Seaborn" height="40" width="100" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.mysql.com/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(6).png" alt="MySql" height="40" width="70" style="max-width: 100%;">&nbsp;
+<a href="https://pandas.pydata.org/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(5).png" alt="pandas" height="50" width="120" style="max-width: 100%;">
+<a href="https://www.python.org/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(13).png" alt="Python" height="60" width="120" style="max-width: 100%;">
+<a href="https://scikit-learn.org/stable/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(4).png" alt="Scikit learn" height="40" width="120" style="max-width: 100%;">
+<a href="https://matplotlib.org/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(8).png" alt="matplotlib" height="50" width="120" style="max-width: 100%;">
+<a href="https://www.tableau.com/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(9).png" alt="Tableau" height="50" width="120" style="max-width: 100%;">
+<a href="https://git-scm.com/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(10).png" alt="git" height="50" width="70" style="max-width: 100%;">
+<a href="https://python-visualization.github.io/folium/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(11).png" alt="folium" height="40" width="80" style="max-width: 100%;">
