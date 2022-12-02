@@ -8,13 +8,16 @@
  A passionate Data Science practitioner.
 </p>
 </h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/sachintyagi0009/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(1).png" alt="linkedin" height="40" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@sachintyagi0009"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download.png" alt="Medium" height="40" width="40" style="max-width: 100%;">&nbsp;
-<a href="https://jovian.ai/sachintyagi0009"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/images.png" alt="Jovian" height="50" width="70" style="max-width: 100%;">
-<a href="https://github.com/sachintyagi0009"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(2).png" alt="linkedin" height="60" width="60" style="max-width: 100%;">
-<a href="https://twitter.com/tyagiji0009"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(3).png" alt="Twitter" height="70" width="70" style="max-width: 100%;">
-  </p>
+<h3>
+<p>
+ Connect with me.
+</p>
+</h3>
+<a href="https://www.linkedin.com/in/sachintyagi0009/"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download%20(1).png" alt="linkedin" height="40" width="40" style="max-width: 100%;">
+<a href="https://medium.com/@sachintyagi0009"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/download.png" alt="Medium" height="40" width="40" style="max-width: 100%;">
+<a href="https://jovian.ai/sachintyagi0009"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/jo.jpg" alt="Jovian" height="40" width="40" style="max-width: 100%;">
+<a href="https://github.com/sachintyagi0009"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/git.jpg" alt="linkedin" height="40" width="40" style="max-width: 100%;">
+<a href="https://twitter.com/tyagiji0009"><img align="center" src="https://github.com/sachintyagi0009/Photos/blob/main/tw.jpg" alt="Twitter" height="40" width="40" style="max-width: 100%;">
   <h2> :school: I have accomplished </h2>
 
 ### Data Science Bootcamp, [Jovian](https://github.com/JovianML)                                                                                       
